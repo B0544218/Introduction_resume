@@ -18,5 +18,8 @@
 ```
 - 我們想要觀察修課pattern是不是夠frequency，因此使用PrefixSpan分析，MinSupoort設置0.1 (MinSupport=0.3、0.05放投影片附錄)
 - 資料前處理如下
+![image](https://github.com/B0544218/Introduction_resume/blob/main/during_period_of_master_degree/data_mining/figure1.JPG)
 
 - 經過PrefixSpan後，再進行視覺化如下
+![image](https://github.com/B0544218/Introduction_resume/blob/main/during_period_of_master_degree/data_mining/figure2.JPG)
+![image](https://github.com/B0544218/Introduction_resume/blob/main/during_period_of_master_degree/data_mining/figure3.JPG)
